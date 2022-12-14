@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_H_MapValidation", "Test_H_MapValidation\Test_H_MapValidation.csproj", "{8B4E5696-CBE8-4A5E-A26F-B8F1DDD720F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4E5696-CBE8-4A5E-A26F-B8F1DDD720F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4E5696-CBE8-4A5E-A26F-B8F1DDD720F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4E5696-CBE8-4A5E-A26F-B8F1DDD720F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4E5696-CBE8-4A5E-A26F-B8F1DDD720F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F392DDC1-7AC8-4014-AA02-384CB5E21D08}
+	EndGlobalSection
+EndGlobal
