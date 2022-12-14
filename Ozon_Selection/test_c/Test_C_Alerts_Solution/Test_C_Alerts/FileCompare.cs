@@ -1,4 +1,4 @@
-﻿namespace Test_H_MapValidation
+﻿namespace Test_C_Alerts
 {
     public static class FileCompare
     {
@@ -51,7 +51,7 @@
             // equal to "file2byte" at this point only if the files are
             // the same.
             return ((file1byte - file2byte) == 0);
-            
+
         }
     }
 }
