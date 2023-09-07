@@ -33,7 +33,7 @@ namespace Test_E_Report
                     //    Console.Write(item + " ");
                     //Console.WriteLine();
 
-                    List<int> result = new();
+                    List<int> used = new();
                     int value = report[0];
 
                     do
@@ -42,9 +42,9 @@ namespace Test_E_Report
                             report.Remove(value);
                         else
                         {
-                            result.Add(value);
+                            used.Add(value);
                             value = report[0];
-                            foreach (var elem in result)
+                            foreach (var elem in used)
                             {
                                 if (elem == value)
                                 {
